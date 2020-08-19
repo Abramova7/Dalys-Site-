@@ -7,7 +7,7 @@ if you want to download, then select the .Zip file!
 
 Update Log!
 
-V.1.1
+V.1.3
 Updated the Blog - And added improvements.
-fixed most problems for mobile.
--more mobile friendly!-
+Better Color Scheme For The Dark Mode-
+-
