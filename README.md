@@ -7,7 +7,7 @@ if you want to download, then select the .Zip file!
 
 -Update Log!-
 
-V.1.3
-Updated the Blog - And added improvements.
-Better Color Scheme For The Dark Mode-
+V.1.4
+Updated the Blog-
+End of development - 8/31/2020.
 -
